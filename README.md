@@ -1,6 +1,7 @@
 # java8_
 
 1. 자바 인터페이스 변경점
+
 1> Default Method
 2> Static Method
  
